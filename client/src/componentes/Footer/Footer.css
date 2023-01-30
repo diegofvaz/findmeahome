@@ -1,0 +1,50 @@
+.main-footer{
+   display: flex;
+   flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+    background-color: #c5f5f2;
+    flex-wrap: wrap;
+    width: 100%;
+    min-height: 2px;
+    font-family: cursive;
+}
+
+.main-footer.dark{
+    background-color: #027a74;
+}
+
+.wsp_item {
+  display: flex;
+  flex-direction: row;
+
+}
+
+.wsp_item p {
+ margin-top: 0px;
+ margin-left: 10px;
+}
+
+.redes {
+  display: flex;
+  flex-direction: row;
+  width: 10rem;
+  justify-content: space-evenly;
+}
+
+.contactanos-items{
+    display: flex;
+  flex-direction: row;
+  margin-bottom: 10px;
+  
+}
+.contactanos-items a{
+  margin-left: 10px;
+}
+
+.contactanos{
+  margin-top: 19px;
+  margin-bottom: 10px;
+  margin-left: 40px;
+}
+

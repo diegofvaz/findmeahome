@@ -1,0 +1,72 @@
+.containerRef{
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100vh;
+
+    background-size: cover;
+
+}
+
+.containerRef.dark{
+    background-color: #043a37;
+}
+
+.datosDetalleRefugio{
+    display: flex;
+    justify-content:center;
+    width: 50%;
+    background-color:  #c5f5f2 ;
+    background-size: cover;
+    border-radius: 20px;
+    font-family: cursive;
+    margin-top: 10px ;
+}
+
+.datosDetalleRefugio.dark{
+    background-color: #027a74;
+
+}
+
+.datosDetalleRefugio h3{
+
+    background-color: rgb(243, 238, 245);
+    padding: 20px;
+    border-radius: 20px; 
+    color:#027a74;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.datosDetalleRefugio.dark h3{
+    background-color: #027a74;
+    color: #c5f5f2;
+}
+
+
+
+/* 
+.titleDetalleRefugio h3 {
+    background-color: white;
+    border-radius: 50px;
+    font-size: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center; 
+   
+} */
+
+.home_button_detalle{
+    margin: 30px;
+    padding: 10px;
+    font-size: 17px;
+}
+
+.home_button_detalle{
+    margin: 30px;
+padding: 10px;
+}

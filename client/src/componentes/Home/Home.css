@@ -1,0 +1,86 @@
+       .parent {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        }
+
+        .parent.ligth{
+            background-color: #c5f5f2;
+        }
+
+        .parent.dark{
+            background-color: #043a37;
+        }
+        
+        .div2_h { 
+            display: flex;
+            align-items: center;
+            width: 100%;
+            justify-content: space-evenly;
+            font-family: cursive;
+            font-size: 50px;
+            margin: 2rem; 
+        }
+
+        .div2_h.dark{
+            display: flex;
+            align-items: center;
+            width: 100%;
+            justify-content: space-evenly;
+            font-family: cursive;
+            font-size: 50px;
+            margin: 2rem;
+            color: #c5f5f2;
+        }
+
+        .subdiv4_h {
+            display: flex;
+            justify-content: space-evenly;
+            flex-wrap: wrap;
+            font-family: cursive;
+            font-size: 20px;
+            color: black;
+           
+        }
+
+        .div4_h { 
+            background-color: #c5f5f2;
+            width: 80%;
+            margin-top: 20px;
+            margin-bottom: 20px;
+            font-family: cursive;
+            font-size: 20px;   
+            border-radius: 20px;    
+        }
+
+        .div4_h.dark{
+            background-color: #027a74;
+            color: #c5f5f2;
+        }
+        .div5_h { 
+            font-family: cursive;
+            font-size: 17px;
+            color: #74d3cd;
+            margin-bottom: 10px;
+            
+        }
+
+        .botones_home {
+            display: flex;
+            justify-content: space-around;
+            margin-top: 30px;
+        }
+        .botones_home button{
+            font-size: 17px;
+        }
+
+        .div6_footer{
+            width: 100%;
+            max-height: 40px;
+            
+        }
+
+        .div-p{
+            margin-left: 20px;
+        }

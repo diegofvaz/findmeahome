@@ -1,0 +1,87 @@
+
+*{text-decoration: none;}
+
+.container_homeProd{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    width: 100%;
+}
+
+.container_homeProd.dark{
+  background-color: #043a37;
+}
+
+.paginatedDiv{
+    /* border: solid black 1px; */
+    display: flex;
+    flex-direction: column;
+    height: 12%;
+    width: 100%;
+    padding: 1rem;
+}
+
+.searchbar{
+    /* border: solid black 1px; */
+    height: 2%;
+    width: 100%;
+}
+
+.containerCards{
+    display: flex;
+    flex-wrap:wrap;
+    width: 100%;
+    gap: 2.5em;
+    right: 20%;
+    padding: 1.25rem;
+    justify-content: center;
+    /* border: solid black 1px; */
+}
+
+
+
+.filters {
+    padding: 0.5rem;
+    display: flex;
+    justify-content: center;;
+    flex-direction: row;
+    gap: 5rem;
+  }
+
+.filters.dark{
+  background-color: #043a37;
+}
+
+  .filters select {
+    background-color: #c5f5f2;
+    border-radius: 10px;
+    padding: 5px;
+    color: #027a74;
+    font-family: cursive;
+    font-weight:bolder;
+    width: 100%;
+  }
+
+  .filters.dark select {
+    background-color: #027a74;
+    color: #c5f5f2;
+  }
+
+  .filters select:hover {
+    /* background-color: #027a74; */
+    border: #c5f5f2 1px solid;
+    /* color:#c5f5f2 */
+  }
+  
+  .underline{
+    border-bottom: 1px solid white;
+    text-align: center;
+  }
+  
+  .options{
+    width: 70%;
+  }
+  
+  .aligns{
+  margin-top:0em;
+  }

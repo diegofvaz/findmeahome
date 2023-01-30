@@ -1,0 +1,70 @@
+.conteinerRequisitos {
+    font-family: cursive;
+}
+
+.conteinerRequisitos.dark{
+    background-color: #043a37;
+}
+
+.tituloReq {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    color: #043a37;
+    font-size: 30px;
+}
+
+.tituloReq.dark{
+    color: #c5f5f2;
+}
+
+.img {
+    padding: 1rem 1rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+}
+
+.img1 {
+    border-radius: 10px;
+    box-shadow: 4px 4px 8px #999
+}
+
+.texto1{
+    padding: 1rem 8rem;
+    text-align:justify;
+    color: #043a37;
+}
+
+.texto1.dark{
+    color: #c5f5f2;
+}
+
+.texto1 p {
+    padding: 1rem 4rem;
+    font-size: 18px;
+    line-height: 1.3rem;
+}
+
+.linksRequisitos {
+    text-align: center;
+}
+
+.l1 {
+    padding-right: 4rem;
+}
+
+.l2 {
+   padding-left: 4rem;
+}
+
+.linksRequisitos button {
+    font-family: cursive;
+    font-weight: bolder;
+}
+
+
+
+

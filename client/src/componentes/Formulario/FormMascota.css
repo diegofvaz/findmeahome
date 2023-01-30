@@ -1,0 +1,141 @@
+.createMascota{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-left: 30rem;
+    font-family: cursive;
+
+}
+
+
+
+.createMascota.dark{
+    background-color: #015e59;
+}
+
+.createFormMascota{
+    padding: 5rem;
+}
+
+.createFormMascota.dark{
+    background-color: #015e59;
+}
+
+
+.containerFormMascota{
+    background: #f9c7c2;
+   width: 40rem;
+    height: 5rem;
+    display: flex;
+    justify-content: center;
+    margin: 17px;
+    top: 50%;
+    left: 50%;
+    transform: translate(67%, 50%);
+    
+}
+
+.createFormMascota form{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    background-color: #c5f5f2;
+    width: 50%;
+    height: 150%;
+    margin-top: 5%;
+    border-radius: 40px;
+    margin-left: 20rem;
+}
+
+.createFormMascota.dark form{
+    background-color: #027a74;
+}
+
+.createFormMascota label{
+    color: #027a74;
+    font-family: cursive;
+    font-size: 20px;
+}
+
+.createFormMascota.dark label{
+    color: #c5f5f2;
+}
+
+
+.tituloFormProducto {
+	display: inline-block;
+    align-items: center;
+    font-size: 35px;
+    color: #043a37;
+    font-family: cursive;
+    font-weight: bold;
+    margin-left: 28rem;
+}
+
+.tituloFormMascota {
+	display: inline-block;
+    align-items: center;
+    font-size: 35px;
+    color: #043a37;
+    font-family: cursive;
+    font-weight: bold;
+}
+
+
+
+.createFormMascota input{
+    height: 40px;
+    margin-top: 7px;
+    margin-bottom: 10px;
+}
+
+
+
+.createFormMascota textarea{
+    background-color: rgb(141, 219, 226);
+    height: 45px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+
+.createFormMascota button{
+    font-size: 17px;
+    margin-bottom: 10px;
+    margin-left: 20px;
+}
+
+
+.inputFormMascotas {
+    padding: 5px 50px 5px 10px;
+    font-size: 0.8rem;
+   
+    background-color: #BCE0ED;
+    display: grid;
+    grid-template-areas: "." ".";
+    width: 300px;
+    border: 1px solid rgba(0, 0, 0, .1);
+	 border-radius: 7px;
+	 height: 38px;
+	 line-height: 38px;
+}
+
+.inputFormMascotas.dark{
+    background-color: #229e98;
+}
+
+.inputFormMascotas:focus{
+    outline: none;
+    border: 1px solid #211C42;
+    box-shadow: 0 0 5px #211C42;
+}
+
+.label{
+    height: 20px;
+    border-radius: 20px;
+    padding: 5px 10px 10px 10px;
+    font-size: 1.2rem;
+}
+
+
