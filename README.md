@@ -38,3 +38,4 @@ Por otro lado, el perfil del admin cuenta con un dashboard en el que se registra
 ## Deploy
 
 - Frontend: Vercel
+- Backend: Render
