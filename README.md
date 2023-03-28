@@ -39,3 +39,4 @@ Por otro lado, el perfil del admin cuenta con un dashboard en el que se registra
 
 - Frontend: Vercel
 - Backend: Render
+- Base de datos: Clever Cloud
