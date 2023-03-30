@@ -40,3 +40,5 @@ Por otro lado, el perfil del admin cuenta con un dashboard en el que se registra
 - Frontend: Vercel
 - Backend: Render
 - Base de datos: Clever Cloud
+
+El proyecto se puede ver en el siguiente link: https://findmeahome.vercel.app/
