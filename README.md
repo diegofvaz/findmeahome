@@ -1,4 +1,4 @@
-# Proyecto Grupal - Find me a home
+# Find me a home
 
 <p align="left">
   <img height="200" src="./findmeahome.JPG" />
