@@ -23,7 +23,6 @@ Por otro lado, el perfil del admin cuenta con un dashboard en el que se registra
   - CSS
   - JavaScript
   - React / Redux
-  - Ant Desing
 - [ ] __Backend__:
   - NodeJS
   - Express
